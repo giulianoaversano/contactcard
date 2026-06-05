@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-"""Generate a QR code with a circular profile image in the center."""
-
 from __future__ import annotations
 
 import argparse
